@@ -56,5 +56,7 @@
 
 ---
 
+<p align="center">
 ### ✨ Quote I Live By
 > *“The best way to learn AI is to build it — line by line, model by model.”*
+</p>
