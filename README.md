@@ -7,8 +7,8 @@
 
 ### 🚀 About Me
 
-🎓 I'm an Informatics student with a deep interest in Artificial Intelligence and Data Science.  
-💼 Currently learning and building projects in **Machine Learning**, **Computer Vision**, and **AI System Development**.  
+🎓 I'm an Informatics student with a deep interest in Artificial Intelligence.
+💼 Currently learning and building projects in **Machine Learning**, **Computer Vision**, and **Generative AI**.  
 🌱 I believe in **learning by doing**, and my journey is filled with hands-on projects, bootcamps, and collaboration.
 
 ---
@@ -19,7 +19,7 @@
 - 📊 Data Analysis & Visualization
 - 🧩 Machine Learning & Deep Learning
 - 🖼️ Computer Vision (CNN, Image Classification)
-- 🧠 Model Optimization & Evaluation
+- 🧠 Generative AI
 
 ---
 
