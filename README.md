@@ -58,4 +58,4 @@
 
 
 ### ✨ Quote I Live By
-> *“The best way to learn AI is to build it — line by line, model by model.”*
+> *"The number one benefit of information technology is that it empowers people to do what they want to do." - Bill Gates *
