@@ -58,4 +58,4 @@
 
 
 ### ✨ Quote I Live By
-> *"The number one benefit of information technology is that it empowers people to do what they want to do." - Bill Gates *
+> *"The number one benefit of information technology is that it empowers people to do what they want to do." - Bill Gates*
