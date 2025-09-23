@@ -18,7 +18,7 @@
 - 🔬 AI Engineering
 - 📊 Data Analysis & Visualization
 - 🧩 Machine Learning & Deep Learning
-- 🖼️ Computer Vision (CNN, Image Classification)
+- 🖼️ Computer Vision
 - 🧠 Generative AI
 
 ---
@@ -33,7 +33,6 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=data&logoColor=white" />
 </p>
 
 ---
