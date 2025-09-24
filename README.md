@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ifan Hakim 👋</h1>
 <p align="center">
-  Aspiring <strong>AI Engineer</strong> | Passionate about <strong>Data</strong> and <strongReal-World Impact</strong>AI💡
+  Aspiring <strong>AI Engineer</strong> | Passionate about <strong>Data</strong> and <strong>AI</strong>💡
 </p>
 
 ---
