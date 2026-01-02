@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ifan Hakim 👋</h1>
+<h1 align="center">Hi, I'm Ifan👋</h1>
 <p align="center">
   Aspiring <strong>AI Engineer</strong> | Passionate about <strong>Data</strong> and <strong>AI</strong>💡
 </p>
@@ -7,13 +7,13 @@
 
 ### 🚀 About Me
 
-🎓 I'm an Informatics student with a deep interest in Artificial Intelligence. <br>
-💼 Currently learning and building projects in **Machine Learning**, **Computer Vision**, and **Generative AI**.  
+🎓 Informatics student with a deep interest in Artificial Intelligence. <br>
+💼 Learning and building projects in **Machine Learning**, **Computer Vision**, and **Generative AI**.  
 🌱 I believe in **learning by doing**, and my journey is filled with hands-on projects, bootcamps, and collaboration.
 
 ---
 
-### 🧠 My Focus Areas
+### 🧠 Focus Areas
 
 - 🔬 AI Engineering
 - 📊 Data Analysis & Visualization
