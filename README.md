@@ -51,7 +51,7 @@
 
 - 📫 Email: ifanhakm@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/ifanhakim/)  
-- 💡 [My Projects](https://github.com/ifanhakm?tab=repositories)
+- 💡 [Portfolio](https://portfolio-ifanhakim.netlify.app/)
 
 ---
 
