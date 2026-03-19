@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ifan👋</h1>
 <p align="center">
-  Aspiring <strong>AI Engineer</strong> | Passionate about <strong>Data</strong> and <strong>AI</strong>💡
+  Aspiring <strong>AI/ML Engineer</strong> | Passionate about <strong>Data</strong> and <strong>AI</strong>💡
 </p>
 
 ---
@@ -57,4 +57,4 @@
 
 
 ### ✨ Quote I Live By
-> *"The number one benefit of information technology is that it empowers people to do what they want to do." - Bill Gates*
+> *"Let your curiosity be your guide." - Geoffrey Hinton*
