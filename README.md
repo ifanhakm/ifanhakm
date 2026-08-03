@@ -7,7 +7,7 @@
 
 ### 🚀 About Me
 
-🎓 Informatics student with a deep interest in Artificial Intelligence. <br>
+🎓 Informatics graduate with a deep interest in Artificial Intelligence. <br>
 💼 Learning and building projects in **Machine Learning**, **Computer Vision**, and **Generative AI**.  
 🌱 I believe in **learning by doing**, and my journey is filled with hands-on projects, bootcamps, and collaboration.
 
