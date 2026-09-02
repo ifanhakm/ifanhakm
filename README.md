@@ -5,7 +5,7 @@
 
   <!-- Typing SVG Banner -->
   <a href="https://portfolio-ifanhakim.my.id/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6466F1&center=true&vCenter=true&width=500&lines=Aspiring+AI%2FML+Engineer;Passionate+about+Data+%26+Deep+Learning;Building+LLM+%26+Vision+Applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6466F1&center=true&vCenter=true&width=500&lines=Aspiring+AI%2FML+Engineer;Passionate+about+Data+%26+AI" alt="Typing SVG" />
   </a>
 
   <p>
