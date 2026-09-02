@@ -20,14 +20,14 @@
 - 🎓 Informatics graduate with a strong focus on **Artificial Intelligence**.
 - 💼 Actively learning & building projects in **Machine Learning**, **Computer Vision**, and **LLM Orchestration**.
 - 🌱 Big believer in **learning by doing**, fueled by hands-on projects, continuous learning, and open collaboration.
-- ⚡ Fun fact: Always excited to experiment with open-source LLMs & new AI frameworks!
+- ⚡ Always excited to experiment with open-source LLMs & new AI frameworks!
 
 ---
 
 ### 🧠 Focus Areas
 
 - 🔬 **Machine Learning & Deep Learning** (Model Training, Fine-Tuning & Evaluation)
-- 🧠 **Generative AI & LLMs** (RAG, Prompt Engineering, Agentic Workflows)
+- 🧠 **Generative AI & LLMs** (RAG, Chatbot, Agentic Workflows)
 - 🖼️ **Computer Vision** (Object Detection, Image Classification)
 - 📊 **Data Analysis & Visualization** (Feature Engineering, EDA)
 
